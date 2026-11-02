@@ -36,3 +36,9 @@ done
 See each script's own module docstring for its specific arguments, and the
 thesis appendix for the full pipeline order and the manual hand-off steps
 between stages.
+
+## `group-presentations/`
+
+A second, independent line of work: searching directly at the level of group
+presentations (GAP) and watching Regina's own Tietze-transformation-driven
+simplification chase similar targets. See `group-presentations/README.md`.
