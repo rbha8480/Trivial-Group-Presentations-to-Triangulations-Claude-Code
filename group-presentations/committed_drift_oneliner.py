@@ -16,7 +16,8 @@ way to probe whether a triangulation descends easily at all.
 
 Meant to be pasted directly into an interactive `regina-python` session where
 a Triangulation4 is already loaded into `tri`; prints the size after every
-step so progress (or the lack of it) is visible immediately.
+step so progress (or the lack of it) is visible immediately. The number 48 indicates
+the number of pentachora in the triangulation and can be changed to whatever is suitable.
 
 usage (interactive, with `tri` already loaded):
     exec(open('committed_drift_oneliner.py').read())
